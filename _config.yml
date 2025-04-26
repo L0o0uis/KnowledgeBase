@@ -1,5 +1,4 @@
 title: 我的知识宇宙
-theme: minima
+theme: minimal
 plugins:
   - jekyll-feed
-permalink: /:categories/:title
